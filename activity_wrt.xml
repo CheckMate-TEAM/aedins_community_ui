@@ -46,7 +46,7 @@
         <EditText
             android:id="@+id/wBody"
             android:layout_width="match_parent"
-            android:layout_height="738dp"
+            android:layout_height="500dp"
             android:background="#FFFFFF"
             android:ems="10"
             android:inputType="textPersonName"
